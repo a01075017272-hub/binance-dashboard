@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.1",
-  "download_url": "https://github.com/a01075017272-hub/binance-dashboard/releases/download/v1.0.1/binance_dashboard.exe",
-  "release_notes": "- 자동 업데이트 기능 추가\n- 안정성 개선"
+    "version": "1.0.1",
+    "download_url": "https://github.com/a01075017272-hub/binance-dashboard/releases/download/v1.0.1/binance_dashboard.exe",
+    "changelog": "- 자동 업데이트 기능 추가\n- 기능 개선"
 }
