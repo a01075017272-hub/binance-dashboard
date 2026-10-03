@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
-    "download_url": "https://github.com/a01075017272-hub/binance-dashboard/releases/download/v1.0.1/binance_dashboard.exe",
-    "changelog": "- 자동 업데이트 기능 추가\n- 기능 개선"
+  "version": "1.0.1",
+  "download_url": "https://drive.google.com/uc?export=download&id=1JAV7iaWjxR0HmrqAl2VoJukOMjqV84tm&confirm=t",
+  "changelog": "- 구글 드라이브 기반 원클릭 자동 업데이트 적용\n- 실시간 웹소켓(WS) 시세 및 포지션 동기화"
 }
