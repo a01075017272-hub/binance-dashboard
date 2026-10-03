@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "download_url": "https://www.dropbox.com/scl/fi/y9racyf46xf7xugeunyvx/binance_dashboard.exe?rlkey=imfsffd068vc22cmrx4y0ttzd&st=vi2voi8j&dl=1"
-  "changelog": "- 구글 드라이브 기반 원클릭 자동 업데이트 적용\n- 실시간 웹소켓(WS) 시세 및 포지션 동기화"
+  "download_url": "https://www.dropbox.com/scl/fi/y9racyf46xf7xugeunyvx/binance_dashboard.exe?rlkey=imfsffd068vc22cmrx4y0ttzd&st=vi2voi8j&dl=1",
+  "changelog": "원클릭 자동 업데이트 기능 추가 및 UI 개선"
 }
