@@ -1,0 +1,5 @@
+streamlit
+firebase-admin
+ccxt
+pandas
+requests
